@@ -1,0 +1,11 @@
+Medium Problems
+
+1. Prime Number Checker: Write a function to check if a number is prime.
+
+2. Fibonacci Sequence: Write a function to return the n-th Fibonacci number.
+
+3. Reverse a String: Write a function that reverses a given string.
+
+4. Find the Maximum: Write a function that finds the maximum number in a list.
+
+5. Merge Two Sorted Lists: Write a function to merge two sorted lists into one sorted list.
